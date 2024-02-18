@@ -1,0 +1,134 @@
+[
+    {
+        "_id": 241247,
+        "name": "Alice Williams",
+        "age": 52,
+        "infant": false,
+        "gender": "Female",
+        "diabetes": false,
+        "hypertension": true,
+        "pregnancy": false,
+        "surgery": true
+    },
+    {
+        "_id": 291113,
+        "name": "Charlie Brown",
+        "age": 31,
+        "infant": false,
+        "gender": "Male",
+        "diabetes": true,
+        "hypertension": false,
+        "pregnancy": false,
+        "surgery": false
+    },
+    {
+        "_id": 223782,
+        "name": "David Miller",
+        "age": 28,
+        "infant": false,
+        "gender": "Male",
+        "diabetes": false,
+        "hypertension": false,
+        "pregnancy": false,
+        "surgery": false
+    },
+    {
+        "_id": 248119,
+        "name": "Emily Davis",
+        "age": 42,
+        "infant": false,
+        "gender": "Female",
+        "diabetes": true,
+        "hypertension": true,
+        "pregnancy": true,
+        "surgery": true
+    },
+    {
+        "_id": 294555,
+        "name": "Grace Wilson",
+        "age": 37,
+        "infant": false,
+        "gender": "Female",
+        "diabetes": false,
+        "hypertension": true,
+        "pregnancy": false,
+        "surgery": true
+    },
+    {
+        "_id": 206274,
+        "name": "Jane Smith",
+        "age": 60,
+        "infant": false,
+        "gender": "Female",
+        "diabetes": true,
+        "hypertension": false,
+        "pregnancy": true,
+        "surgery": false
+    },
+    {
+        "_id": 275972,
+        "name": "John Doe",
+        "age": 45,
+        "infant": false,
+        "gender": "Male",
+        "diabetes": false,
+        "hypertension": true,
+        "pregnancy": false,
+        "surgery": false
+    },
+    {
+        "_id": 291768,
+        "name": "Olivia Hall",
+        "age": 0,
+        "infant": true,
+        "gender": "Female",
+        "diabetes": false,
+        "hypertension": false,
+        "pregnancy": false,
+        "surgery": false
+    },
+    {
+        "_id": 292875,
+        "name": "Peter Robinson",
+        "age": 58,
+        "infant": false,
+        "gender": "Male",
+        "diabetes": true,
+        "hypertension": false,
+        "pregnancy": false,
+        "surgery": true
+    },
+    {
+        "_id": 251976,
+        "name": "Bob Johnson",
+        "age": 40,
+        "infant": false,
+        "gender": "Male",
+        "diabetes": false,
+        "hypertension": true,
+        "pregnancy": false,
+        "surgery": true
+    },
+    {
+        "_id": 300001,
+        "name": "Eva Taylor",
+        "age": 35,
+        "infant": false,
+        "gender": "Female",
+        "diabetes": false,
+        "hypertension": true,
+        "pregnancy": false,
+        "surgery": true
+    },
+    {
+        "_id": 300002,
+        "name": "James Anderson",
+        "age": 55,
+        "infant": false,
+        "gender": "Male",
+        "diabetes": true,
+        "hypertension": true,
+        "pregnancy": false,
+        "surgery": false
+    }
+]
